@@ -1,6 +1,9 @@
 # Visualizing-COVID-19---Pandemic-
 Analysing WHO report on COVID-19-geographic-disbtribution-worldwide
-
+## WHO Coronavirus (COVID-19) Dashboard: 
+https://covid19.who.int/
+## Colab: 
+https://colab.research.google.com/
 
 # Problem Statement:
 The COVID-19 startd in Wuhan, China and has spread across 182 countries of the world. New cases are arising every day with records of deaths.
